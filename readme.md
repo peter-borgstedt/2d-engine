@@ -1,7 +1,5 @@
 # Little Green Fellow 2D Engine
-A 2D engine written to comprehend the underlaying logic behind old game engines, and the difficulties of speed optimizations -- not to be confused with those engines and games as they were typically written in assembly for another specific architecture (i.e [6502](https://en.wikipedia.org/wiki/MOS_Technology_6502)), but logic and high level thinking of optmizations should be moreover the same. This is written in C++ and supports x64/arm64, thus possible to run on **Windows**, **Linux**, **MacOS**, **iOS** and **Android**.
-
-It is more suited for *"retro styled games"* due to its simplicity.
+A 2D engine written to comprehend the underlaying logic behind one. It is more suited for *"retro styled games"* due to its simplicity.
 
 ## History
 - 2016-03-18
